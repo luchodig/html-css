@@ -1,0 +1,256 @@
+
+/* Css - Index */
+
+.banner {
+    width: 70%;
+    height: 450px;
+    padding: 10px;
+}
+
+.contenedor {
+    width: 90%;
+    height: 800px;
+    background-color: dimgray;
+    font-size: 18px;
+    
+    
+}
+
+.head {
+    color: black;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#sec-head {
+    color: yellowgreen;
+    
+}
+
+.categorias {
+    color: #f4f6f7;
+    display: flex;
+    justify-content: space-around;
+    align-items:flex-end;
+}
+
+.categorias a {
+    color: burlywood;
+    margin: 10px 20px;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+#articles { 
+    
+    color: #f2f3f4;
+    
+}
+
+#input {
+    width: 70%auto;
+    height: 40px;
+    line-height: 40px;
+    background-color: #f2f3f4;
+    
+}
+
+
+#aside-p {
+   font-size: 45px;
+   color: black;
+}
+
+
+#logi-logo {
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+}
+
+#astros-logo {
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+}
+
+#redragon-logo {
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+}
+
+
+#noganet-logo {
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+}
+
+
+#hyperx-logo {
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+}
+
+#pie-pagina {
+    color: #f2f3f4;
+
+}
+
+
+/* Css - Quienes Somos */
+
+#div-qs {
+    color: #aeb6bf;
+}
+.categorias {
+    color: #f4f6f7;
+    display: flex;
+    justify-content: baseline;
+    flex-wrap: wrap;
+}
+
+.categorias a {
+    color: burlywood;
+    margin: 10px 20px;
+
+
+}
+
+
+
+/* Css- Perifericos */
+
+.categorias{
+    color: #f4f6f7;
+    display: flex;
+    justify-content: baseline;
+    flex-wrap: wrap;
+
+    
+}
+
+.categorias a{
+    color: burlywood;
+    margin: 10px 20px;
+
+
+}
+
+
+
+#logik123{
+    width: 250px;
+}
+
+#logik230{
+    width: 250px;
+}
+
+#logig413{
+    width: 250px;
+}
+
+#logig915{
+    width: 250px;
+}
+
+#logi-g305{
+    width: 190px;
+}
+
+#logi-gpro{
+    width:190px;
+}
+#hyperx-fps{
+    width: 190px;
+}
+
+#hyperx-pulse{
+    width: 190px;
+}
+
+
+
+/* Css - Consolas */
+
+.categorias{
+    color: #f4f6f7;
+    display: flex;
+    justify-content: baseline;
+    flex-wrap: wrap;
+
+    
+}
+
+.categorias a{
+    color: burlywood;
+    margin: 10px 20px;
+
+
+}
+
+
+
+
+#xbox{
+    width: 200px;
+    height: 250px;
+    padding: 10px;
+}
+
+#ps5{
+    width: 200px;
+    height: 250px;
+    padding: 10px;
+}
+
+#xbox1tb{
+    width: 200px;
+    height: 250px;
+    padding: 10px;
+}
+
+.consolas{
+    font-size: 30px;
+    color: indianred;
+}
+
+
+/* Css - Arma tu PC */
+
+.categorias{
+    color: #f4f6f7;
+    display: flex;
+    justify-content: baseline;
+    flex-wrap: wrap;
+
+    
+}
+
+.categorias a{
+    color: burlywood;
+    margin: 10px 20px;
+
+
+}
+
+
+
+
+#article-atp{
+    color: blue;
+}
+
+.titulo-color{
+    font-size: 30px;
+    color: indianred;
+}
+
+
+
